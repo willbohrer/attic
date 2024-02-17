@@ -1,6 +1,6 @@
 # Attic
 
-Game engine extended from the Lua-based LÖVE2D framework
+Game framework extended from the Lua-based LÖVE2D framework
 
 Built from [LÖVE version 11.5](https://github.com/love2d/love/releases/tag/11.5)
 
